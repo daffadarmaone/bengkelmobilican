@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Auth extends CI_Controller {
+    //Ini Controller Login
 
     function __construct() {
         parent::__construct();
